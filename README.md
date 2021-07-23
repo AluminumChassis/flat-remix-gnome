@@ -2,6 +2,8 @@
 Several small changes including 
 - Removing the dock bar margin
 - Removing the dock bar padding
+
+# Original Readme:
 ![Flat Remix GNOME theme](https://github.com/daniruiz/flat-remix-gnome/raw/master/assets/logo.png)
 ===============================
 
